@@ -1,12 +1,26 @@
 .p-purple{
     background-color: rgb(98, 57, 139);
-    color: white;
 }
 
 body{
-    background-color: rgb(67, 127, 192);
+    background-color: rgb(56, 50, 235);
 }
 
-footer ul li a{
-    color: white;
+#main{
+    flex: ;
+    width: 100%;
+    position: absolute;
+    height: 45%;
+}
+
+#timer{
+    background-color: whitesmoke;
+    position: absolute;
+    bottom: 20%;
+    top: 52%;
+}
+
+#footer{
+    position: absolute;
+    bottom: 0%;
 }
